@@ -2,7 +2,7 @@
 
 <b>Heroku</b>: https://gentle-coast-75537.herokuapp.com/
 <br/>
-Full stack web application that is used as a template to create Blog page on blockchain technology. One can publish their blogs by going to compose section of page.
+Web application that is used as a template to create Blog page on blockchain technology. One can publish their blogs by going to compose section of page.
 <br/>
 ![image](https://user-images.githubusercontent.com/99763743/197288408-4fed1dc8-2f33-4c7e-a00e-3c1cd1593c37.png)
 <br/>
